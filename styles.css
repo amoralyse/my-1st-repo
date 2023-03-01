@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 3rem 10rem;
+    font-size: 16px;
+    display: grid;
+    place-items: center;
+    background-color: rgba(0, 255, 255, 0.308);
+}
+
+h1 {
+    font-size: 3rem;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
